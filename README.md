@@ -31,7 +31,7 @@ Version: Python 3.8
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/28d96574-7ebb-4660-be16-0dba5bd00092)
 
+![Screenshot (5)](https://github.com/user-attachments/assets/0af0a5ac-c8de-4739-a95d-219687e15a91)
 
-![image](https://github.com/user-attachments/assets/c42a4cef-c5cd-4101-935f-edfe441e2317)
 
 
