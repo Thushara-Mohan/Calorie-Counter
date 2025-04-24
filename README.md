@@ -29,7 +29,8 @@ Version: Python 3.8
 ## Outputs
 ![image](https://github.com/user-attachments/assets/28987431-d5df-49e1-8a84-b27b4c6066a6)
 
-![image](https://github.com/user-attachments/assets/044c5769-da36-42e9-a49c-173a84f92d96)
+![Screenshot (4)](https://github.com/user-attachments/assets/28d96574-7ebb-4660-be16-0dba5bd00092)
+
 
 ![image](https://github.com/user-attachments/assets/c42a4cef-c5cd-4101-935f-edfe441e2317)
 
